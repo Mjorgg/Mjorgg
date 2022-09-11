@@ -2,7 +2,7 @@
 - 👀 estou interresado em pHp , ruby 
 - 🌱 I’m currently learning  Python
 - 💞️ interresado a contribuir  e ensinar Github
-- print('OLA MUNDO')
+- print('ola, mundo')
 
 <!---
 Mjorgg/Mjorgg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
